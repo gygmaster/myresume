@@ -1,0 +1,57 @@
+body {
+	font-family: Courier New;
+	text-align: center;
+	background: #000;
+	margin-left: 200px;
+	margin-right: 200px;
+	color: white;
+}
+.menu {
+	background: #002966;
+	color: white;
+}
+img {
+	border-radius: 50%;
+}
+.menu-bottom {
+	background:  #003d99;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.kanan {
+	background: #005ce6;
+}
+.education {
+	background: #3385ff;
+}
+.cr {
+	background: #66a3ff;
+}
+.last {
+	background: #b3d1ff;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-instagram {
+	background: #b3d1ff;
+    color: white;
+}
+.fa-google {
+	background: #b3d1ff;
+    color: white;
+}
+.fa-facebook {
+	background: #b3d1ff;
+    color: white;
+}
+.BOX {
+	background: white;
+	height: 1px;
+	width: 300px;
+	margin-left: 325px;
+}
